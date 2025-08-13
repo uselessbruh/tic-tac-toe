@@ -36,8 +36,8 @@ A sophisticated Tic Tac Toe game featuring a reinforcement learning AI opponent 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-tictactoe.git
-   cd ai-tictactoe
+   git clone https://github.com/uselessbruh/tic-tac-toe.git
+   cd tic-tac-toe
    ```
 
 2. **Install dependencies**
