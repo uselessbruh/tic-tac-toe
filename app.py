@@ -1,3 +1,4 @@
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from stable_baselines3 import DQN
@@ -10,6 +11,11 @@ CORS(app)
 
 # Load model only once (stateless env per request)
 model = DQN.load("tictactoe_agent")
+
+# Health check endpoint
+@app.route("/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok"})
 
 @app.route("/move", methods=["POST"])
 
