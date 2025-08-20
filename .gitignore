@@ -62,7 +62,6 @@ coverage.xml
 .env.*
 
 # Model files
-*.zip
 *.h5
 *.pth
 *.ckpt
