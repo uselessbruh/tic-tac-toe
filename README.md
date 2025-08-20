@@ -37,7 +37,7 @@ A sophisticated Tic Tac Toe game featuring a reinforcement learning AI opponent 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-tictactoe.git
+   git clone https://github.com/uselessbruh/tic-tac-toe.git
    cd ai-tictactoe
    ```
 
@@ -279,8 +279,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions, suggestions, or collaboration opportunities, please open an issue or reach out via:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/ai-tictactoe/issues)
-- Email: your.email@example.com
+- GitHub Issues: [Create an issue](https://github.com/uselessbruh/tic-tac-toee/issues)
 
 ---
 
